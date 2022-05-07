@@ -1,0 +1,52 @@
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.flowers {
+  background-image: url("https://eskipaper.com/images/field-flowers-1.jpg");
+  background-attachment: fixed;
+  padding: 33%;
+  margin-top: -100px;
+}
+
+
+h1 {
+  text-align: center;
+  font-size: 5rem;
+  line-height: 1.5;
+  font-weight: 900;
+  color: #541690;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  font-weight: 900;
+  line-height: 1.5;
+  color: #205375;
+}
+
+
+
+/* Testimonials */
+
+#testimonials {
+  text-align: center;
+}
+
+.beach {
+  background-image: url("https://www.pcbeach.org/wp-content/uploads/2016/08/beach.jpg");
+  background-attachment: fixed;
+  margin: 0;
+}
+
+
+.carousel-item {
+  padding: 7% 15%;
+}
